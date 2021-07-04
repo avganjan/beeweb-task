@@ -7,10 +7,6 @@ module.exports = {
   },
   authProviders: {
     facebook: {
-      development: {
-        appId: '302757054880015',
-        appSecret: 'd5159b455dde676744c102c2b3077b8b'
-      }
     }
   }
 }
